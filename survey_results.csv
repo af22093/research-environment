@@ -1,0 +1,23 @@
+session_id,target_probability,actual_probability,survey_interval_min,stress_level,timestamp
+mhobmvy7iftt9vq6q4,0.25,0,0,3,2025-11-07 12:54:10
+mhobq3rrlciy3qssbsg,0.25,0,0,3,2025-11-07 12:56:34
+mhobq3rrlciy3qssbsg,0.25,0,0,3,2025-11-07 12:58:49
+mhobvyl4yw4n6x0wg7,0.25,0,0,27,2025-11-07 13:01:16
+mhobvyl4yw4n6x0wg7,0.25,0,1,50,2025-11-07 13:06:18
+mhoc7qvy1tty7vdmkc2,0.25,0,0,23,2025-11-07 13:10:21
+mhoc9f3hdx1hxvsz1w7,0.5,0,0,50,2025-11-07 13:11:35
+mhocqe7flajo6g6b4gq,0.25,0,0,50,2025-11-07 13:24:47
+mhofo5e1pw7hnz8aa1q,久保田皓大,0.25,0,pre_warmup,24,2025-11-07 14:47:09
+mhofo5e1pw7hnz8aa1q,久保田皓大,0.25,0.2508,post_warmup,28,2025-11-07 14:48:17
+mhofo5e1pw7hnz8aa1q,久保田皓大,0.25,0.2508,5_min,30,2025-11-07 14:48:22
+mhofutuctz7o8dvvzo,kubota,0.25,0,pre_experiment,29,2025-11-07 14:52:21
+mhog6q4wlncy6hzapv,久保田,0.25,0,pre_experiment,50,2025-11-07 15:01:36
+mhogdmiead1an4wrgjh,久保田皓大,0.25,0,pre_experiment,29,2025-11-07 15:06:55
+mhoghofv39kf94pnwtp,久保田皓大,0.25,0,pre_experiment,26,2025-11-07 15:10:02
+mhoglofqg2fygjqtrmh,久保田皓大,0.5,0,pre_experiment,19,2025-11-07 15:13:16
+mhoi56qosya7lb5sem9,久保田皓大,0.25,0,pre_experiment,50,2025-11-07 15:56:22
+mhoi93u3d43b3j0eech,久保田皓大,0.25,0,pre_experiment,50,2025-11-07 15:59:20
+mhpy2yy5bdqqqu0bz6q,久保田皓大,0.25,0,pre_experiment,17,2025-11-08 16:10:20
+mhpy2yy5bdqqqu0bz6q,久保田皓大,0.25,0,post_warmup,28,2025-11-08 16:12:51
+mhpyzmamdkf6bdx3ugw,久保田なのは,0.5,0,pre_experiment,15,2025-11-08 16:35:48
+mhpz3bxayh2l2vffhud,久保田佐紀子,0.25,0,pre_experiment,10,2025-11-08 16:39:02
