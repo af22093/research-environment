@@ -1,0 +1,20 @@
+{
+  "buildCommand": "pip install -r requirements.txt",
+  "functions": {
+    "app.py": {
+      "runtime": "python3.9",
+      "memory": 3008,
+      "maxDuration": 60
+    }
+  },
+  "includeFiles": [
+    "wrime-ver1_converted.csv",
+    "all_merged.csv",
+    "output.csv",
+    "credentials.json",
+    "templates/**",
+    "templates/index.html",
+    "app.py",
+    "requirements.txt"
+  ]
+}
